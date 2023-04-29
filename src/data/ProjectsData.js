@@ -18,7 +18,7 @@ export const ProjectData = [
     id: 3,
     name: 'Entertainment web app',
     tech: [{ one: 'html', two: 'css' }],
-    soursCode: 'http://www.example.com',
+    soursCode: 'https://mostafa-elhawary.github.io/Entertainment-web-app/',
     img: './assets/images/ezgif3.com-gif-maker.png'
   },
   {
