@@ -9,35 +9,35 @@ export const ProjectData = [
   },
   {
     id: 2,
-    name: 'DESIGN PORTFILIO',
+    name: 'Notifications page',
     tech: [{  one: 'html', two: 'css', three: 'js' }],
     soursCode: 'http://www.example.com',
     img: './assets/images/ezgif.com-gif2-maker.png'
   },
   {
     id: 3,
-    name: 'E-LEARNING LANDING PAGE',
+    name: 'Entertainment web app',
     tech: [{ one: 'html', two: 'css' }],
     soursCode: 'http://www.example.com',
     img: './assets/images/ezgif3.com-gif-maker.png'
   },
   {
     id: 4,
-    name: 'ENTERTAINMENT WEB APP',
+    name: 'Devjobs web app',
     tech: [{ one: 'html', two: 'css', three: 'React', four: 'node' }],
     soursCode: 'http://www.example.com',
     img: './assets/images/ezgif.com-gif4-maker.png'
   },
   {
     id: 5,
-    name: 'ART GALLAERY SHOWCASE',
+    name: 'Job listings with filtering',
     tech: [{  one: 'html', two: 'css', three: 'node' }],
     soursCode: 'http://www.example.com',
     img: './assets/images/ezgif.com-gif5-maker.png'
   },
   {
     id: 6,
-    name: 'MEMOR GAME',
+    name: 'Product feedback app',
     tech: [{  one: 'node', two: 'react' }],
     soursCode: 'http://www.example.com',
     img: './assets/images/ezgif.com-gif6-maker.png'
