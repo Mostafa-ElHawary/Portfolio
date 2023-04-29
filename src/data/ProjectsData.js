@@ -25,14 +25,14 @@ export const ProjectData = [
     id: 4,
     name: 'Devjobs web app',
     tech: [{ one: 'html', two: 'css', three: 'React', four: 'node' }],
-    soursCode: 'http://www.example.com',
+    soursCode: 'https://mostafa-elhawary.github.io/Devjobs-web-app/',
     img: './assets/images/ezgif.com-gif4-maker.png'
   },
   {
     id: 5,
     name: 'Job listings with filtering',
     tech: [{  one: 'html', two: 'css', three: 'node' }],
-    soursCode: 'http://www.example.com',
+    soursCode: 'https://mostafa-elhawary.github.io/Job-listings-with-filtering/',
     img: './assets/images/ezgif.com-gif5-maker.png'
   },
   {
