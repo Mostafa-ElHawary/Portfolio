@@ -2,7 +2,7 @@
 export const ProjectData = [
   {
     id: 1,
-    name: 'TODO WEB APP',
+    name: 'Kanban task management web app',
     tech: [{  one: 'html', two: 'css', three: 'React' }],
     soursCode: 'https://mostafa-elhawary.github.io/Todowebapp/',
     img: './assets/images/ezgif.com-gif-maker.png'
