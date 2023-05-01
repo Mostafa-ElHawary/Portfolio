@@ -4,7 +4,7 @@ export const ProjectData = [
     id: 1,
     name: 'Kanban task management web app',
     tech: [{  one: 'html', two: 'css', three: 'React' }],
-    soursCode: 'https://mostafa-elhawary.github.io/Todowebapp/',
+    soursCode: 'https://mostafa-elhawary.github.io/Kanban-task-management-web-app/',
     img: './assets/images/ezgif.com-gif-maker.png'
   },
   {
