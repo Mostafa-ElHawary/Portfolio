@@ -5,7 +5,7 @@ const path = require("path")
 const http = require("http")
 
 const server = http.Server(app)
-app.set("port",3001)
+app.set("port",3003)
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(express.static(path.join(__dirname,'../Component/Contact')));
@@ -41,7 +41,7 @@ app.post('/send-email', (req, res) => {
       Message: ${message}
     `,
   };
-
+console.log(mailOptions);
   // Send the email
   transporter.sendMail(mailOptions, (error, info) => {
     if (error) {
@@ -54,6 +54,6 @@ app.post('/send-email', (req, res) => {
   });
 });
 
-app.listen(3001, () => {
-  console.log('Server started on http://localhost:3001');
+app.listen(3003, () => {
+  console.log('Server started on http://localhost:3003');
 });

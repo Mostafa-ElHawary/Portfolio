@@ -22,7 +22,7 @@ import { Data } from '../../data/HeadData';
 export const  Head  = () =>  {
   return (
     <Section >
-       <Container  pt='100px' pb='100px' border='1px solid white'>
+       <Container  pt='50px' pb='50px' border='1px solid white'>
 
             <ContactSoicalslide >
                     

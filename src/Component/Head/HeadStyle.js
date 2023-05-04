@@ -49,7 +49,7 @@ export const HeadInfoWrapper = styled.div`
     `
           export const HeadImg = styled.img`
                position: relative;
-               top: -48px;
+               /* top: -48px; */
                padding-right: 0;
                border: 0;
                /* vertical-align: middle; */
