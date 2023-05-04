@@ -74,12 +74,12 @@ export const Contact = () => {
 
             </ContactTextWrapper>
 
-            <ContactInfo>
+            <ContactInfo action="/send-email">
                
                <Contactinputs 
                padding ={'0 15px 25px'} 
                placeholder="NAME" 
-               type='NAME'
+               type='Name'
                initial={initial}
                animate={animate}
                transition={{ duration: 0.5 + 1 * 0.1 }}
@@ -88,7 +88,7 @@ export const Contact = () => {
                <Contactinputs 
                padding ={'0 15px  25px'} 
                placeholder="EMAIL" 
-               type='EMAIL'
+               type='Email'
                initial={initial}
                animate={animate}
                transition={{ duration: 0.5 + 3 * 0.1 }}
@@ -97,8 +97,8 @@ export const Contact = () => {
                <ContactTextArea 
 
                padding ={'0 15px  25px'} 
-               placeholder="TextArea" 
-               type='TextArea' 
+               placeholder="Message" 
+               type='Message' 
                initial={initial}
                animate={animate}
                transition={{ duration: 0.5 + 6 * 0.1 }}
@@ -110,9 +110,9 @@ export const Contact = () => {
                transition={{ duration: 0.5 + 7 * 0.1 }}
                >
                
-                  <ContactSendMessage padding='10px 0 '>
+                  <ContactSendMessage padding='10px 0 ' type="submit">
                     SEND MESSAGE
-                  </ContactSendMessage>
+                  </ContactSendMessage >
                
                </ContactWrapperSendMessage>
 

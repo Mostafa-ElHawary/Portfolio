@@ -48,7 +48,7 @@ export const ContactWrapper = styled.div`
 
             `;
 
-    export const ContactInfo = styled.div`
+    export const ContactInfo = styled.form`
     
       display: grid;
       grid-template-columns: repeat(1, 1fr);
@@ -92,12 +92,14 @@ export const ContactWrapper = styled.div`
              `;
 
              
-                  export const ContactSendMessage = styled.a`
+                  export const ContactSendMessage = styled.button`
                     text-decoration: none;
                     cursor:pointer;
                      color: white;
+                     border: none;
                      border-bottom: 1px solid   #4CE3A0;
                      padding: ${(props) => props.padding};
+                     background: none;
                      
                   `;
             
