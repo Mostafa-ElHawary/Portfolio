@@ -4,7 +4,7 @@ export const ProjectData = [
     id: 1,
     name: 'Interactive comments section',
     tech: [{  one: 'html', two: 'css', three: 'React' }],
-    soursCode: 'https://mostafa-elhawary.github.io/Kanban-task-management-web-app/',
+    soursCode: 'https://mostafa-elhawary.github.io/Interactive-comments-section/',
     img: './assets/images/Interactive comments section.jpg'
   },
   {
