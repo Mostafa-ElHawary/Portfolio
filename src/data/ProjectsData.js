@@ -2,10 +2,10 @@
 export const ProjectData = [
   {
     id: 1,
-    name: 'Kanban task management web app',
+    name: 'Interactive comments section',
     tech: [{  one: 'html', two: 'css', three: 'React' }],
     soursCode: 'https://mostafa-elhawary.github.io/Kanban-task-management-web-app/',
-    img: './assets/images/ezgif.com-gif-maker.png'
+    img: './assets/images/Interactive comments section.jpg'
   },
   {
     id: 2,
