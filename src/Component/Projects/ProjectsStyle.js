@@ -76,7 +76,7 @@ export const ProjectsWrapper = styled.div`
             grid-template-columns: repeat(1, 1fr);
     `
 
-        export const ProjectImgWrapper = styled(motion.div)`
+        export const ProjectImgWrapper = styled(motion.a)`
 
 
                   `

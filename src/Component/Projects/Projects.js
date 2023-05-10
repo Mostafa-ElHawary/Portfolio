@@ -33,9 +33,9 @@ function InfoBox({ project }) {
   
             <ProjectsInfoBox className="box">
 
-               <ProjectImgWrapper>
+               <ProjectImgWrapper href={project.soursCode}>
 
-                  <ProjectImg src={project.img} href={project.soursCode}></ProjectImg>
+                  <ProjectImg src={project.img} ></ProjectImg>
       
                </ProjectImgWrapper>
 
