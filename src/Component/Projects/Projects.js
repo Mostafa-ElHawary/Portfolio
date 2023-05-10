@@ -45,7 +45,7 @@ function InfoBox({ project }) {
                      <TechList tech={project.tech}></TechList>
                   
                </ProjectTech>
-               <ProjectView mb='10px' mt='10px' href={project.soursCode}>Source code</ProjectView>
+               <ProjectView mb='10px' mt='10px' href={project.githubLink}>Source code</ProjectView>
 
            </ProjectsInfoBox>
         
