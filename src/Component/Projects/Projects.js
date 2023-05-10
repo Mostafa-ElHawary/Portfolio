@@ -35,7 +35,7 @@ function InfoBox({ project }) {
 
                <ProjectImgWrapper>
 
-                  <ProjectImg src={project.img}></ProjectImg>
+                  <ProjectImg src={project.img} href={project.soursCode}></ProjectImg>
       
                </ProjectImgWrapper>
 

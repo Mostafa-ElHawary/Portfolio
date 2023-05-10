@@ -87,6 +87,7 @@ export const ProjectsWrapper = styled.div`
                   display: inline-block;
                   object-fit: contain;
                   z-index: 1;
+                  cursor: pointer;
             `
         export const ProjectName = styled.div`
         
