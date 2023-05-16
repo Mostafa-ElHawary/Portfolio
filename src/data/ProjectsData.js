@@ -21,7 +21,7 @@ export const ProjectData = [
     id: 3,
     name: 'Kanban-task-management-web-app',
     tech: [{ one: 'html', two: 'css' }],
-    soursCode: 'https://mostafa-elhawary.github.io/Entertainment-web-app/',
+    soursCode: 'https://mostafa-elhawary.github.io/Kanban-task-management-web-app/',
     img: './assets/images/ezgif.com-gif-maker.png',
     githubLink:'https://github.com/Mostafa-ElHawary/Kanban-task-management-web-app'
 
