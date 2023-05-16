@@ -19,11 +19,11 @@ export const ProjectData = [
   },
   {
     id: 3,
-    name: 'Entertainment web app',
+    name: 'Kanban-task-management-web-app',
     tech: [{ one: 'html', two: 'css' }],
     soursCode: 'https://mostafa-elhawary.github.io/Entertainment-web-app/',
-    img: './assets/images/ezgif3.com-gif-maker.png',
-    githubLink:'https://github.com/Mostafa-ElHawary/Entertainment-web-app'
+    img: './assets/images/ezgif.com-gif-maker.png',
+    githubLink:'https://github.com/Mostafa-ElHawary/Kanban-task-management-web-app'
 
   },
   {
